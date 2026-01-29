@@ -31,8 +31,8 @@
 
 ```bash
 # 1. Repository klonla
-git clone https://github.com/yourusername/gmail-account-creator.git
-cd gmail-account-creator
+git clone https://github.com/berkayssaatcirs/gmail-hesap-acici.git
+cd gmail-hesap-acici
 
 # 2. Dependencies yükle
 pip install -r requirements.txt
